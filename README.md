@@ -26,21 +26,20 @@
 - ⚡ Working as an L1 Production Support Engineer at ECPL
 - 🎯 Interested in Software Engineering, Data Engineering & AI
 
-<h2 align="left"></h2>
-
 ###
 
 # 📊 GitHub Stats:
+<div align="center">
 ![](https://github-readme-stats.shion.dev/api?username=likhith-gowda-7&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=likhith-gowda-7&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=likhith-gowda-7&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+</div>
 
+### Naruto Gif>>
 
-###
+<img align="right" height="170" src="./assets/Goofy_Naruto.gif" />
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/220/220015.gif"  />
-
-###
+### Tech-Stack
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -86,7 +85,7 @@
   <img src="https://cdn.simpleicons.org/socketdotio/010101" height="30" alt="socketio logo"  />
 </div>
 
-###
+### Social-Media Links
 
 <div align="left">
   <a href="likhithdm20@gmail.com" target="_blank">
@@ -98,15 +97,13 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="63" height="35" alt="linktree logo"  />
 </div>
 
-###
+## 👾 Contribution Graph
 
-<br clear="both">
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/pacman-output/galaga-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/galaga-output/profile-night-green.svg" width="100%" />
+
+</div>
 
 ###
 
