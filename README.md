@@ -20,10 +20,10 @@
 ## 🚀 About Me
 
 - 💻 Full Stack Developer passionate about building scalable applications
-- 🧠 Solved 688+ LeetCode problems
-- 🚀 Currently rebuilding **DELTA** — Modern Real-Time Chat Platform
+- 🧠 Solved 700+ LeetCode problems
+- 🚀 Currently rebuilding **DELTA_V2** — Modern Real-Time Chat Platform
 - 🌱 Learning System Design, AI/ML & Advanced Backend Engineering
-- ⚡ Working as an L1 Production Support Engineer at ECPL
+- ⚡ Working as an System Engineer(L1) at ECPL
 - 🎯 Interested in Software Engineering, Data Engineering & AI
 
 ###
@@ -42,9 +42,9 @@
 
 ###
 
-<img align="right" height="170" src="./assets/Goofy_Naruto.gif" />
+<img align="right" height="170" src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/main/assets/Goofy_Naruto.gif" />
 
-### Tech-Stack
+### Tech-Stack⚙️:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -90,7 +90,7 @@
   <img src="https://cdn.simpleicons.org/socketdotio/010101" height="30" alt="socketio logo"  />
 </div>
 
-### Social-Media Links
+### 💻Social-Media Links:
 
 <div align="left">
   <a href="likhithdm20@gmail.com" target="_blank">
@@ -102,7 +102,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="63" height="35" alt="linktree logo"  />
 </div>
 
-## 👾 Contribution Graph
+## 👾 Contribution Graph:
 
 <div align="center">
 
