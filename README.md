@@ -79,31 +79,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/pacman-output/galaga-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/pacman-output/galaga-contribution-graph.svg">
 </picture>
-
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
