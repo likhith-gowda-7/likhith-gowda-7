@@ -30,11 +30,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=likhith-gowda-7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=likhith-gowda-7&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=likhith-gowda-7&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=likhith-gowda-7&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ###
 
