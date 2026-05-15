@@ -30,12 +30,17 @@
 
 # 📊 GitHub Stats:
 <div align="center">
+
+  
 ![](https://github-readme-stats.shion.dev/api?username=likhith-gowda-7&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=likhith-gowda-7&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=likhith-gowda-7&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+  
 </div>
 
-### Naruto Gif>>
+###
 
 <img align="right" height="170" src="./assets/Goofy_Naruto.gif" />
 
