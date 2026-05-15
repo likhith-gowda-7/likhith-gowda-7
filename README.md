@@ -26,76 +26,89 @@
 - ⚡ Working as an L1 Production Support Engineer at ECPL
 - 🎯 Interested in Software Engineering, Data Engineering & AI
 
----
+<h2 align="left"></h2>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=likhith-gowda-7&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://streak-stats.demolab.com/?user=likhith-gowda-7&theme=chartreuse-dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=likhith-gowda-7&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🛠 Tech Stack
+###
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,c,java,react,nodejs,express,mongodb,postgresql,html,css,aws,azure,firebase,django,flask,linux,vscode,postman&perline=10" />
-
+  <img src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=likhith-gowda-7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-## 🌟 Featured Projects
+<img align="right" height="150" src="https://giffiles.alphacoders.com/220/220015.gif"  />
 
-### 🚀 DELTA — Modern Chat Application
-- Real-time messaging using Socket.io
-- Authentication & Authorization
-- Modern responsive UI
-- MERN Stack based architecture
+###
 
-### 🧠 LeetCode Solutions
-- 688+ Problems Solved
-- Covers Arrays, Trees, Graphs, DP & more
-- Optimized solutions with explanations
-
-### 🤖 AI/ML Projects
-- NLP based projects
-- Deep Learning mini projects
-- AI automation experiments
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:likhithdm20@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-
-<a href="https://www.linkedin.com/in/d-m-likhith/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-
-<a href="https://github.com/likhith-gowda-7" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/socketdotio/010101" height="30" alt="socketio logo"  />
 </div>
 
----
+###
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=likhith-gowda-7&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
+<div align="left">
+  <a href="likhithdm20@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/d-m-likhith/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="63" height="35" alt="linktree logo"  />
 </div>
 
----
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/pacman-output/galaga-contribution-graph.svg">
+</picture>
+
+###
 
 <div align="center">
 
