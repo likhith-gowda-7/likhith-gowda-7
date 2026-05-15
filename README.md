@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Likith</h1>
 
 <h3 align="center">
-Full Stack Developer • Problem Solver • AI/ML Enthusiast
+💻 Software Engineer | Full Stack Developer | Problem Solver
 </h3>
 
 <div align="center">
@@ -9,6 +9,11 @@ Full Stack Developer • Problem Solver • AI/ML Enthusiast
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI%2FML+Enthusiast;688%2B+LeetCode+Problems+Solved;Always+Learning+New+Things" />
 
 </div>
+
+---
+
+## Profile Visits:
+[![](https://komarev.com/ghpvc/?username=likhith-gowda-7&icon=0&color=13)](https://visitcount.itsvg.in)
 
 ---
 
@@ -23,17 +28,12 @@ Full Stack Developer • Problem Solver • AI/ML Enthusiast
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=likhith-gowda-7&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-<div align="center">
+![](https://streak-stats.demolab.com/?user=likhith-gowda-7&theme=chartreuse-dark&hide_border=false)<br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=likhith-gowda-7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-
-<img height="170" src="https://streak-stats.demolab.com?user=likhith-gowda-7&theme=tokyonight&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-gowda-7&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=likhith-gowda-7&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
