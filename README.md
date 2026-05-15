@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI%2FM[...]
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI%2FML+Enthusiast;688%2B+LeetCode+Problems+Solved;Always+Learning+New+Things" />
 
 </div>
 
@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" height="170" src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/main/assets/Goofy_Naruto.gif?raw=true" />
+<img align="right" height="170" src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/main/assets/Goofy_Naruto.gif" />
 
 ### Tech-Stack⚙️:
 
@@ -114,6 +114,6 @@
 
 <div align="center">
 
-### 💡 "Consistency Beats Motivation."
+### 💡 “Consistency Beats Motivation.”
 
 </div>
