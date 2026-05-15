@@ -79,5 +79,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/pacman-output/galaga-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/pacman-output/galaga-contribution-graph.svg">
 </picture>
-###
 
+###
