@@ -12,12 +12,13 @@
 
 ---
 
-## Profile Visits:
+## Profile Visits🎯:
 <div align="center">
-  
-[![](https://komarev.com/ghpvc/?username=likhith-gowda-7&icon=0&color=13)](https://visitcount.itsvg.in)
+
+![](https://komarev.com/ghpvc/?username=likhith-gowda-7&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge)
 
 </div>
+
 ---
 
 ## 🚀 About Me
