@@ -1,0 +1,31 @@
+name: Generate Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: likhith-gowda-7
+          template: classic
+          base: header, activity, community, repositories
+          config_timezone: Asia/Kolkata
+
+      - name: Push Stats
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: stats-output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
