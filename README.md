@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Likhith<br><br>💻 Software Engineer | Full Stack Developer | Problem Solver<br><br>- 🔭 Currently working on:<br>  DELTA_V2 - Modern Chat Application<br><br>- 🌱 Learning:<br>  System Design, AI/ML, Advanced Backend<br><br>- 👨‍💻 Solved 700+ LeetCode Problems<br><br>- ⚡ Experience:<br>  System Engineer(L1) at ECPL<br><br>- 📫 Reach me:<br>  LinkedIn | Email</h2>
+<h2 align="left"></h2>
 
 ###
 
