@@ -27,11 +27,11 @@ Full Stack Developer • Problem Solver • AI/ML Enthusiast
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=likhith-gowda-7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=likhith-gowda-7&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=likhith-gowda-7&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://streak-stats.demolab.com?user=likhith-gowda-7&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-gowda-7&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=likhith-gowda-7&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -87,11 +87,11 @@ Full Stack Developer • Problem Solver • AI/ML Enthusiast
 
 ---
 
-## 🐍 Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/output/snake.svg" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=likhith-gowda-7&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
