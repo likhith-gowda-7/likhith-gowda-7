@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Likith</h1>
+<h1 align="center">Hey 👋 I'm Likhith</h1>
 
 <h3 align="center">
 💻 Software Engineer | Full Stack Developer | Problem Solver
@@ -6,15 +6,18 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+Stack+Developer;AI%2FML+Enthusiast;688%2B+LeetCode+Problems+Solved;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Competitive+Programmer;AI%2FML+Enthusiast;700%2B+LeetCode+Problems+Solved;Always+Learning+New+Things" />
 
 </div>
 
 ---
 
 ## Profile Visits:
+<div align="center">
+  
 [![](https://komarev.com/ghpvc/?username=likhith-gowda-7&icon=0&color=13)](https://visitcount.itsvg.in)
 
+</div>
 ---
 
 ## 🚀 About Me
