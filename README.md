@@ -42,7 +42,10 @@
 
 ###
 
-<img align="right" height="170" src="https://cdn.jsdelivr.net/gh/likhith-gowda-7/likhith-gowda-7@main/assets/Goofy_Naruto.gif" />
+<video align="right" height="170" autoplay loop muted>
+  <source src="https://media.githubusercontent.com/media/likhith-gowda-7/likhith-gowda-7/main/assets/Goofy_Naruto.gif" type="video/mp4">
+  <img src="https://cdn.jsdelivr.net/gh/likhith-gowda-7/likhith-gowda-7@main/assets/Goofy_Naruto.gif" height="170" alt="Naruto GIF">
+</video>
 
 ### Tech-Stack⚙️:
 
