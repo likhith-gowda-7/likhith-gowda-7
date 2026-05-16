@@ -1,18 +1,54 @@
-<h2 align="left"></h2>
+<h1 align="center">Hey 👋 I'm Likhith</h1>
+
+<h3 align="center">
+💻 Software Engineer | Full Stack Developer | Problem Solver
+</h3>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Competitive+Programmer;AI%2FML+Enthusiast;700%2B+LeetCode+Problems+Solved;Always+Learning+New+Things" />
+
+</div>
+
+---
+
+## Profile Visits🎯:
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=likhith-gowda-7&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 💻 Full Stack Developer passionate about building scalable applications
+- 🧠 Solved 700+ LeetCode problems
+- 🚀 Currently rebuilding **DELTA_V2** — Modern Real-Time Chat Platform
+- 🌱 Learning System Design, AI/ML & Advanced Backend Engineering
+- ⚡ Working as an System Engineer(L1) at ECPL
+- 🎯 Interested in Software Engineering, Data Engineering & AI
 
 ###
 
+# 📊 GitHub Stats:
 <div align="center">
-  <img src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=likhith-gowda-7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/languages-output/languages.svg" height="150" alt="languages graph"  />
+
+  
+![](https://github-readme-stats.shion.dev/api?username=likhith-gowda-7&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=likhith-gowda-7&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=likhith-gowda-7&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+  
 </div>
 
 ###
 
-<img align="right" height="150" src="https://giffiles.alphacoders.com/220/220015.gif"  />
+<img align="right" height="170" src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/main/assets/Goofy_Naruto.gif" />
 
-###
+### Tech-Stack⚙️:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
@@ -58,7 +94,7 @@
   <img src="https://cdn.simpleicons.org/socketdotio/010101" height="30" alt="socketio logo"  />
 </div>
 
-###
+### 💻Social-Media Links:
 
 <div align="left">
   <a href="likhithdm20@gmail.com" target="_blank">
@@ -70,40 +106,18 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="63" height="35" alt="linktree logo"  />
 </div>
 
-###
+## 👾 Contribution Graph:
 
-<br clear="both">
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/pacman-output/galaga-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/pacman-output/galaga-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/pacman-output/galaga-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/galaga-output/profile-night-green.svg" width="100%" />
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/likhith-gowda-7/likhith-gowda-7/snake-output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
 </div>
 
 ###
 
-<div align="left">
+<div align="center">
+
+### 💡 “Consistency Beats Motivation.”
+
 </div>
-
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-
-###
