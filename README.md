@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About Me:
 
 - 💻 Full Stack Developer passionate about building scalable applications
 - 🧠 Solved 700+ LeetCode problems
