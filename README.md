@@ -102,8 +102,10 @@
   </a>
   <a href="https://www.linkedin.com/in/d-m-likhith/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="63" height="35" alt="linkedin logo"  />
-  </a>
+  </a >
+  <a href="https://likhith-dm.vercel.app" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="63" height="35" alt="linktree logo"  />
+    </a >
 </div>
 
 ## 👾 Contribution Graph:
